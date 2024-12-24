@@ -85,3 +85,13 @@ ls -la
 
 17. pushd/popd:
 ![alt text](image-4.png)
+
+18. Echo command to print something:
+```
+echo "hEllo world"
+```
+
+19. Print home directory:
+```
+echo $HOME
+```
