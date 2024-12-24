@@ -17,5 +17,15 @@ ls
 
 4. Make directory:
 ```
-mkdir asia
+mkdir Asia
+```
+
+5. Make multiple directories
+```
+mkdir Africa America Europe
+```
+
+6. Ls command to verify if foders are created:
+```
+ls
 ```
