@@ -61,3 +61,27 @@ ctrl+d (to save)
 cat city.txt to read again
 ```
 
+12. create files using touch command
+```
+touch abc.txt
+```
+
+13. using more or less command:
+![alt text](image-2.png)
+
+14. long list:
+```
+ls -l
+```
+
+15. list everything including hidden files:
+```
+ls -a
+ls -la
+```
+
+16. Absolute and relative paths:
+![alt text](image-3.png)
+
+17. pushd/popd:
+![alt text](image-4.png)
