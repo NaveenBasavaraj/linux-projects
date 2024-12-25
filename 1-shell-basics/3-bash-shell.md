@@ -13,3 +13,18 @@
 ```
 echo $SHELL
 ```
+
+2. Bash provides auto completion features:
+```
+ls Africa (press tab)
+```
+
+3. setting alias
+```
+alias dt=date
+```
+
+4. history
+```
+history
+```
