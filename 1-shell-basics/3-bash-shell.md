@@ -28,3 +28,41 @@ alias dt=date
 ```
 history
 ```
+
+### Bash Environment Variables
+
+```
+echo $SHELL
+```
+
+- Environment variables like the name suggests is used to store information (specific to the environment)
+- stores information about user's login session (used by shell while executing commands)
+- to see the list of environment variable -> 'env'
+    ```
+    env
+    ```
+- to set an environment variable use EXPORT command
+    ```
+    export OFFICE=caleston
+    ```
+- always use EXPORT command to make variables carry information forward beyond the shell to other process
+- to make persistent changes to environment variables, add them to below file
+    ```
+    ~/.profile or ~/.pam_environment
+    ```
+
+### Path Variable
+- path variable is used to search where the external commands are stored
+```
+echo $PATH
+```
+![alt text](image-5.png)
+
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+### Customize Bash Prompt
+
+![alt text](image-8.png)
